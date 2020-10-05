@@ -6,9 +6,9 @@ This is a reinforcement learning agent playing Snake VS Block.
 
 # Usage
 
-'''bash
+```bash
 python snake_x_manager.py
-'''
+```
 
 If you want to let agent learn with screen input, please change these.
 arg{
