@@ -10,8 +10,8 @@ This is a reinforcement learning agent playing Snake VS Block.
 python snake_x_manager.py
 ```
 
-If you want to let agent learn with screen input, please change these.
-arg{
-  'enable_img' : False -> True
-  'draw_screen' : False -> True
-  }
+If you want to let agent learn with screen input, please change these.  
+arg  
+  'enable_img' : False -> True  
+  'draw_screen' : False -> True  
+  }  
