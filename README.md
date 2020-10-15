@@ -4,6 +4,8 @@ This is a reinforcement learning agent playing Snake VS Block.
 
 # YouTube
 
+https://www.youtube.com/watch?v=h97sjPY8L5c
+
 # Usage
 
 ```bash
